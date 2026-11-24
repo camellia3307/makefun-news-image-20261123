@@ -1,15 +1,17 @@
-# Sum up 23 November's world news in one image
+# makefun-news-image-20261123
 
-Entry for make.fun bounty `news-image-20261123`.
-$100 pool, 50 places paid: 1st $20, 2nd $12, 3rd $6, 4th-10th $2, 11th-50th $1.20.
-Ends Wed, Nov 25, 2026, 12:00 AM UTC.
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/camellia3307/makefun-news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/camellia3307/makefun-news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
-Run: `python3 main.py` — writes `/output/entry.png`.
-Deterministic, no network, no randomness. 1024x1024 PNG, 96 KB.
-Verified: ran twice, identical SHA256.
+Deterministically generates a 1024x1024 image summing up 23 November 2026's world news in four panels: COP31, Kyiv, the US House, and Iran.
 
-Stories (23 Nov 2026):
-1. COP31 climate talks collapse, no deal in Antalya.
-2. Russian strikes kill at least 15 in Kyiv region.
-3. Democrats clinch biggest US House majority in decades, at least 258 seats.
-4. Trump inclined to resume Iran strikes after New Year if no deal.
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=z03gbg57&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
